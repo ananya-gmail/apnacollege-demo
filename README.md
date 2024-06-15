@@ -1,4 +1,4 @@
-# apnacollege-demo
+# college-demo
 This is my first Git Repository
 <br>
 Author - Ananya Saxena
